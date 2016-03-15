@@ -1,0 +1,14 @@
+html {
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+.ball {
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	background-color: red;
+}
